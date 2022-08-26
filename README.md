@@ -3,6 +3,8 @@
 [![License: GPLv3](https://img.shields.io/badge/license-GPLv3-red?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0.html)
 [![Donations: Coffee](https://img.shields.io/badge/donations-Coffee-brown?style=flat-square)](https://gitlab.com/Chrismettal#donations)
 
+**Very early work in progress. Also basically an exercise in learning Flutter. Not recommended for production.**
+
 Small app to count and track various things happening in life, as well as keep a journal of 1-10 style ratings.
 
 Mostly focused on the data collection side. Creates an SQLite database locally to be synced and evaluated elsewhere.

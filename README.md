@@ -1,7 +1,7 @@
 # Life Counter <!-- omit in toc -->
 
 [![License: GPLv3](https://img.shields.io/badge/license-GPLv3-red?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0.html)
-[![Donations: Coffee](https://img.shields.io/badge/donations-Coffee-brown?style=flat-square)](https://gitlab.com/Chrismettal#donations)
+[![Donations: Coffee](https://img.shields.io/badge/donations-Coffee-brown?style=flat-square)](https://github.com/Chrismettal#donations)
 
 **Very early work in progress. Also basically an exercise in learning Flutter. Not recommended for production.**
 
@@ -9,7 +9,7 @@ Small app to count and track various things happening in life, as well as keep a
 
 Mostly focused on the data collection side. Creates an SQLite database locally to be synced and evaluated elsewhere.
 
-**If you like my work please consider [supporting my caffeine addiction](https://gitlab.com/Chrismettal#donations)!**
+**If you like my work please consider [supporting my caffeine addiction](https://github.com/Chrismettal#donations)!**
 
 ## Table of contents <!-- omit in toc -->
 
@@ -23,7 +23,7 @@ None
 
 ## Donations
 
-**If you like my work please consider [supporting my caffeine addiction](https://gitlab.com/Chrismettal#donations)!**
+**If you like my work please consider [supporting my caffeine addiction](https://github.com/Chrismettal#donations)!**
 
 ## License
 
